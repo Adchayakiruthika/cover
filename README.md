@@ -1,4 +1,4 @@
-![output png](https://github.com/Adchayakiruthika/cover/assets/138849219/963a228a-6868-402f-bad0-b2472202c235)# Cover Page Design
+# Cover Page Design
 ## AIM:
 To design a book front cover page using HTML and CSS.
 
